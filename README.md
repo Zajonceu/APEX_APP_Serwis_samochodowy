@@ -2,7 +2,7 @@
 
 ## Wprowadzenie
 
-Aplikacja "Serwis Samochodowy" została stworzona w celu zarządzania bazą klientów warsztatu samochodowego, organizowania wizyt serwisowych oraz wysyłania powiadomień e-mail do klientów. Aplikacja umożliwia także zarządzanie uprawnieniami pracowników oraz dodawanie nowych usług do oferty warsztatu. Jest to pierwsza wersja aplikacji stworzona w Oracle APEX, która będzie dalej rozwijana i optymalizowana.
+Aplikacja "Serwis Samochodowy" została stworzona w celu zarządzania bazą klientów warsztatu samochodowego, organizowania wizyt serwisowych oraz wysyłania powiadomień e-mail do klientów. Aplikacja umożliwia także zarządzanie uprawnieniami pracowników oraz dodawanie nowych usług do oferty warsztatu. Jest to moja pierwsza wersja aplikacji stworzona w Oracle APEX, która będzie dalej rozwijana i optymalizowana.
 
 ## Logowanie do aplikacji
 
